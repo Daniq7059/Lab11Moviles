@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "502708396056",
+    "project_id": "tecsupproyecto-94507",
+    "storage_bucket": "tecsupproyecto-94507.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502708396056:android:a5a1ee0cb71268cfd8236d",
+        "android_client_info": {
+          "package_name": "com.tecsup.labmaps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAGk2JKZTgrKeS6Tl953OrnoEg6rpzVvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502708396056:android:ce7133c24665b669d8236d",
+        "android_client_info": {
+          "package_name": "com.tecsup.tecsupapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAGk2JKZTgrKeS6Tl953OrnoEg6rpzVvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
